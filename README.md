@@ -58,6 +58,8 @@ Sample Input :
 Output : 
 Path :  { (0, 0) , (1, 0) , (2, 1) , (3, 2) , (4, 3) , (5, 4) , (6, 5) , (7, 6) , (8, 7 ) , (9, 8) , (10, 9) , (11, 10) , (12, 11) , (13, 12) , (13, 13) }
 Total Cost:  18.8
+Output Figure :
+![a_star_grid_with_all_fn](https://github.com/user-attachments/assets/f2225d34-19b0-4db1-a376-06e820c73857)
 
 Discussion
 The A* Search algorithm was applied to a 14×14 grid environment representing a warehouse with different terrain types and obstacles. The robot is designed to find the least-cost path from the starting cell to the goal cell. The environment included:
