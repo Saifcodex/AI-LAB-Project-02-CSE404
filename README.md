@@ -25,11 +25,11 @@ Consider terrain effects (like slippery or carpeted areas)
 This project simulates a simplified grid-based warehouse where terrain costs vary, making it an ideal test case for A* search optimization.
 
 Grid (Environment) :
-i) Grid Size: 14 × 14
-ii) Obstacles: 10 impassable cells
-iii) Spe1.cial Terrains: 6 cells with dynamic traversal costs
-iv) Start Point: (0, 0)
-v) Goal Point: (13, 13)
+1. Grid Size: 14 × 14
+2.  Obstacles: 10 impassable cells
+3. Special Terrains: 6 cells with dynamic traversal costs
+4. Start Point: (0, 0)
+5. Goal Point: (13, 13)
 ![a_star_grid_with_all_fn_and_coords](https://github.com/user-attachments/assets/51b947d7-f361-4e5b-80fc-38602ecc6005)
 
 Sample Input : 
